@@ -2,7 +2,7 @@
 My Cybersecurity learning journey.
 
 ## 🎓 Certifications
-- Cisco NetAcad - Introduction to Cybersecurity
+- Cisco NetAcad - Introduction to Cybersecurity✅
 
 ## 🧠 Learning Platforms
 - Cisco NetAcad
