@@ -1,4 +1,4 @@
-# Cyber-Journal
+# Cyber-Journey
 My Cybersecurity learning journey.
 
 ## 🎓 Certifications
